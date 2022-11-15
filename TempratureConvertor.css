@@ -1,0 +1,42 @@
+*{
+    background-color: rgb(172, 151, 37);
+    color: rgb(73, 32, 7);
+}
+
+label{
+    font-size: 18px;
+}
+
+.container{
+    
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 300px;
+}
+
+input{
+    border-color: rgb(95, 46, 16);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.button{
+    background-color: rgb(164, 90, 30);
+    color: rgb(73, 32, 7);
+    height: auto;
+    width: 200px;
+    border: none;
+    padding: 10px;
+    border-radius: 35px;
+    margin: 50px;
+}
+
+.reset{
+    background-color: rgb(164, 90, 30);
+    height: auto;
+    width: 200px;
+    padding: 10px;
+    border-radius: 35px;
+    margin: 50px;
+}
